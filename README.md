@@ -9,9 +9,9 @@ Uses ARM `oracle-java8-installer` from webupd8team. See [this](http://www.webupd
 Run all the commands from within the project root directory.
 
 ### Build Details
-- [Source Repository](https://github.com/cmoro-deusto/docker-rpi-java8)
-- [Dockerfile](https://github.com/cmoro-deusto/docker-rpi-java8/blob/master/Dockerfile)
-- [DockerHub] (https://registry.hub.docker.com/u/dordoka/rpi-java8/)
+- [Source Repository](https://github.com/marhan/docker-rpi-java8)
+- [Dockerfile](https://github.com/marhan/docker-rpi-java8/blob/master/Dockerfile)
+- [DockerHub] (https://registry.hub.docker.com/u/marhan/rpi-java8/)
 
 
 #### Build the Docker Image
@@ -38,7 +38,7 @@ Kudos to [Hypriot](http://blog.hypriot.com/heavily-armed-after-major-upgrade-ras
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Carlos Moro
+Copyright (c) 2016 Markus Hanses
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
