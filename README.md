@@ -1,6 +1,6 @@
 # docker-rpi-java8
 
-[![dockeri.co](http://dockeri.co/image/dordoka/rpi-java8)](https://registry.hub.docker.com/u/dordoka/rpi-java8/)
+[![dockeri.co](http://dockeri.co/image/marhan/rpi-java8)](https://registry.hub.docker.com/u/marhan/rpi-java8/)
 
 Raspberry Pi compatible Docker base image with Java.
 
