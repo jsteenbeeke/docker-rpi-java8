@@ -1,6 +1,6 @@
 
 # Pull base image
-FROM resin/rpi-raspbian:wheezy
+FROM resin/rpi-raspbian:jessie
 MAINTAINER Markus Hanses <hanses.markus@gmail.com>
 
 # Install dependencies
